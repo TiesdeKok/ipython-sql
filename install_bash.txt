@@ -1,0 +1,2 @@
+cd C:\Stack\Work\Programming\Forks\ipython-sql
+python setup.py install
